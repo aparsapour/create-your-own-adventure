@@ -10,6 +10,8 @@ and search for your [destiny](destiny/destiny.md).
 
 Before we begin, do you need a [warm-up?](warm-up/warm-up.md)
 
+or maybe [eat that delicious cucumber sandwich?](sandwich/sandwich.md)
+
 After warming up, take a minute and reflect on your [love for udacity](love-udacity/love-udacity.md)
 
 You are are man (or woman) for all seasons but need help in choosing
@@ -39,6 +41,8 @@ The Chief Marshmallow also demands that you watch [Sonicsgate](https://www.youtu
 Or a Wednesday...Thursday...maybe even a Friday, but definetely not a Saturday.
 
 Ok, we have to consider Saturday too.
+
+[this crazy thought popped into your head](yellow-baby-buggy-bumpers/yellow-baby-buggy-bumpers.md)
 
 Alice doesn't live here anymore, [or does she?](scarab/goddess.md)
 
@@ -770,6 +774,8 @@ But there are [too many hurdles in your way](hurdles/hurdles.md).
 
 Hmmm....I wonder what this [fortune cookie](fortune/fortune.md) says...
 
+It says you should [brew some beer](beer-brewer/beer-brewer.md).
+
 The [news](joke/joke.md) says it all my people!
 
 Bible says... As you sow, so shall you [reap](think/growrich.md)
@@ -795,8 +801,13 @@ Hi i got this one for udacity team.
 
 As the sand encompassed her toes and
 the ocean-spray breezed through her nose
+
 she froze...
 
 But the cold never bothered me anyway.
 
 Let it go, let it gooo...
+
+Do you want to build a [snowman?] (snowman/snowman.md)
+
+I think I'll try defying gravity. 
